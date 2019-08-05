@@ -1,7 +1,7 @@
-# Mention a GitHub user in a comment:
+﻿# 在评论中提及 GitHub 用户：
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库。
 
-2.	Create your comment or issue, as described previously, and then in the **comment** text box, type **@**, followed by the user or team name, within the comment.
+2.	按照前文所述，创建评论或问题，然后在 **评论** 文本框中，输入 **@**，然后在评论内容中输入用户或小组名称。
 
-    > **Note**: When you type the **@** symbol, a list appears that contains GitHub users who are collaborators on the applicable project and anyone who is participating in the project’s comments. The list uses autocomplete as you type, so that you can filter the list easily.
+    > **注释**：输入 **@** 符号时，会显示一个列表，其中包含作为适用项目协作者的 GitHub 用户以及参与项目评论的所有用户。该列表会在输入内容时自动完成，以便你轻松筛选列表。
