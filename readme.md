@@ -1,23 +1,23 @@
-# GitHub User Guide for MCTs
+﻿# MCT GitHub 用户指南
 
-Cloud services, such as Microsoft Azure, are updated frequently. This leads to issues for Microsoft Certified Trainers (MCTs) when they teach courses, because lab steps change frequently as the service changes. Due to the frequency of the changes and the fact that there may not be any notification when changes occur, it can be difficult for the course development team to rapidly identify and address any lab changes. 
+如 Microsoft Azure 等云服务经常更新。这会导致微软认证培训师 (MCT) 在教授课程时出现问题，因为随着服务更改，实验室步骤也会经常更改。由于经常更改并且更改时可能不会发送任何通知，课程开发团队很难快速识别和处理任何实验室更改。 
 
-To address these issues, we are using GitHub to publish the lab steps and lab scripts for courses that cover cloud services like Azure. Using GitHub allows the course’s authors and MCTs to keep the lab content current with Azure platform changes. Using GitHub allows the MCTs to provide feedback and suggestions for lab changes, and then the course authors can update lab steps and scripts quickly and relatively easily.
+为了解决这些问题，我们使用 GitHub 发布涵盖 Azure 等云服务的课程的实验步骤和实验脚本。使用 GitHub 可让课程作者和 MCT 随时了解最新实验室内容以及 Azure 平台更改。使用 GitHub 可让 MCT 针对实验室更改提供反馈和建议，然后课程作者就可以快速并相对容易地更新实验室步骤和脚本。
 
-When you prepare to teach these courses, you should ensure that you are using the latest lab steps and scripts by downloading the appropriate files from GitHub. 
+准备教授这些课程时，应通过从 GitHub 下载适当的文件来确保正在使用最新的实验室步骤和脚本。 
 
-This user guide is for MCTs who are new to GitHub, and it provides steps for connecting to GitHub, downloading and printing course materials, updating the scripts that students use in labs, and explaining how you can help ensure that this course’s content remains current.
+本用户指南适用于对 GitHub 不熟悉的 MCT，提供连接到 GitHub、下载和打印课程材料、更新学生在实验室中使用的脚本的步骤，并介绍如何帮助确保课程内容保持最新。
 
-> **Note**: It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+> **注释**：强烈建议 MCT 和合作伙伴访问这些材料，并依次单独提供给学生。  在教授课程时让学生直接从 GitHub 访问实验室步骤需要他们访问另一个 UI 作为课程的一部分，这会使学生感到困惑。向学生解释为他们提供单独实验室说明的原因，能够让学生了解到基于云的界面及平台经常更改的本质。Microsoft Learning 支持访问 GitHub 上的文件并支持 GitHub 站点导航仅限于教授此课程的 MCT。
 
-GitHub should not be used to discuss technical content in the course, or how to prep. It is specifically to address changes in the labs.
+GitHub 不应用于讨论课程中的技术内容或如何备课。其专门用于处理实验室中的更改。
 
-> **Note**: To address general comments about the course and demos, or how to prepare for the course, please use the MCT forums.
+> **注释**：要提出有关课程和演示的一般评论或要了解如何备课，请使用 MCT 论坛。
 
-## Sections
+## 章节
 
-- [GitHub Terminology](terminology/)
+- [GitHub 术语](terminology/)
 
-- [Microsoft Learning's GitHub solution for course labs](solution/)
+- [Microsoft Learning 的 GitHub 课程实验室解决方案](solution/)
 
-- [Receiving update notifications, suggesting changes, and collaborating on projects](collaboration/)
+- [接收更新通知、建议更改以及项目相关协作信息](collaboration/)
