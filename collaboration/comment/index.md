@@ -1,27 +1,27 @@
-# Commenting
+﻿# 评论
 
-You can comment on pull requests and proposed changes (commits) that other users make. When you comment on a commit, you view a source diff of the file, and you then you can comment on specific changes on a line-by-line basis or on the entire commit. You also can make suggestions about an overall project, by submitting an Issue or commenting on an existing Issue.
+你可以评论拉取请求以及其他用户所做的建议更改（提交）。当你评论提交时，查看文件的源差异，然后就可以逐行评论特定更改或评论整个提交。你也可以通过提交问题或评论现有问题，就整个项目提出建议。
 
-## Review and comment on a pull request:
+## 评价和评论拉取请求：
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库。
 
-1.	Click **Pull requests *n***, where ***n*** is the number of active pull requests.
+1.	单击 **Pull requests *n***，其中 ***n*** 表示可用拉取请求的数量。
 
-2.	Select the pull request that you want to review, and then on the **Write** tab, in the **Leave a comment** text box, input your comment.
+2.	选择要评价的拉取请求，然后在 **Write** 选项卡的 **Leave a comment** 文本框中，输入评论内容。
 
-3.	Click **Comment**.
+3.	单击 **Comment**。
 
-## Review and comment on a commit:
+## 评价和评论拉取提交：
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库。
 
-2.	Click ***n commits**, where ***n*** is the number of commits that have been submitted. If you want to review the latest commit, you can select the title/short description of the commit from file list.
+2.	单击 ***n commits**，其中 ***n***表示已提交的提交数量。如果要评价最新提交，可从文件列表选择提交的标题/简短描述。
 
-3.	In the **source diff** section, select the change on which you want to comment by clicking the plus sign **(+)** that appears when the mouse hovers over the applicable change.
+3.	在 **source diff** 部分，通过单击鼠标悬停在适用更改上时显示的加号 **(+)** 来选择要评论的更改。
 
-4.	On the **Write** tab, in the **Comment** text box, provide your comment.
+4.	在 **Write** 选项卡的 **Comment** 文本框中，提供你的评论内容。
 
-5.	Click **Comment**.
+5.	单击 **Comment**。
 
-    > **Note**: If you wish to provide an overall comment on the commit, under n comments on commit, where n is the number of comments submitted, and then under the Write tab, in the Leave a comment text box, type your comment, and Click Comment on this commit.
+    > **注释**：如果要针对提交提供整体评论，请在提交的 n 条评论下，其中 n 表示已提交评论数量，然后在“写入”选项卡下的“发表评论”文本框中，输入你的评论内容，然后单击“评论”以评论此提交。
