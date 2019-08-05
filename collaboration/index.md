@@ -1,13 +1,13 @@
-# Receiving update notifications, suggesting changes, and collaborating on projects
+﻿# 接收更新通知、建议更改以及项目相关协作信息
 
-You can configure your GitHub experience so that you receive notifications when updates occur to a GitHub repo. There are several ways in which you can sign up for notifications, and many of them relate to the many ways that you can collaborate on a project. To receive notifications, you can:
+你可以配置 GitHub 体验，以在 GitHub 存储库更新时接收通知。你可以通过多种方式注册通知，很多注册方式都与项目协作方式相关。要接收通知，你可以：
 
-| Action | Description |
+| 操作 | 说明 |
 | --- | --- |
-| [Watch repositories](watching/) | When you watch a repository, GitHub subscribes you automatically to notifications for any new pull requests or issues that are created for that specific repository. You automatically watch any repository that you create or for which you are a collaborator. |
-| [Pull request](pullrequest/) | When you create a pull request, and propose that the owners of a repo accept a change that you make, you automatically subscribe to receive notifications for the related discussion about the pull request. In order to create a Pull request you must first create a branch. |
-| [Comments](comment/) | When you make comments about another person’s pull request, GitHub subscribes you automatically to the forum that pertains to that comment, or you can subscribe to the forum manually. |
-| [Issues](issue/) | An issue is a suggestion, question, or request that pertains to a repository. Each issue has its own discussion, and you can subscribe to issues, or GitHub subscribes you automatically to issues that you create. |
-| [Mentions](mention/) | When another user mentions you in a conversation, using your GitHub user name (@username), GitHub subscribes you automatically to the discussion. |
+| [监视存储库](watching/) | 监视存储库时，GitHub 会为你自动订阅通知，让你接收有关针对特定存储库创建的任意拉取请求或问题的信息。你会自动监视由你创建的任意存储库或你作为协作者的存储库。 |
+| [拉取请求](pullrequest/) | 创建拉取请求时，以及建议存储库所有者接受你所做的更改时，你会自动订阅，以接收与拉取请求相关讨论有关的通知。要创建拉取请求，必须先创建分支。 |
+| [评论](comment/) | 评论其他人的拉取请求时，GitHub 会为你自动订阅与该评论相关的论坛，或者你可以手动订阅该论坛。 |
+| [问题](issue/) | 问题是指与存储库相关的建议、问题或请求。每个问题都有自己的讨论，你可以订阅问题，或者 GitHub 会为你自动订阅你所创建的问题。 |
+| [提及](mention/) | 当其他用户在对话中使用你的 GitHub 用户名 (@username) 提到你时，GitHub 会为你自动订阅该讨论。 |
 
-> **Note**: You can modify how and when you receive notifications, and you also can unsubscribe to any or all discussions.
+> **注释**：你可以修改接收通知的方式与时间，也可以取消订阅任意或所有讨论。
