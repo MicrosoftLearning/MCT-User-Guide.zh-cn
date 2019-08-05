@@ -1,16 +1,16 @@
-GitHub introduces terminology that might be new to you, and the following list includes terms and concepts that this document uses. However, for a full list of GitHub terms, refer to the “GitHub Glossary” at <https://help.github.com/articles/GitHub-glossary/>. 
+﻿GitHub 引入了你可能不熟悉的术语，下面的列表包含本文档所使用的术语及概念。但如需 GitHub 术语的完整列表，请参阅 <https://help.github.com/articles/GitHub-glossary/> 的“GitHub 术语表”。 
 
-| Term | Explanation |
+| 术语 | 解释 |
 | --- | --- |
-| Git and GitHub | Git is an open-source, change-tracking program, and GitHub is a site/solution built on Git. There are other websites and solutions that use Git as their backend. You would use GitHub primarily for open-source (public) development projects, and it is free for those projects. However, if you want to use GitHub for projects that are private, and not open source, you must sign up for a paid version. |
-| Repo or Repository | Each project in GitHub is in a repository, or repo. A repo contains all of a project’s files, including documentation, and it supports revision history. A repository can be public or private, and you can have a local copy of the repo on your computer hard drive, or you can use the repo within GitHub. |
-| Markdown | This is a text-file format that you can use for creating documentation. It is text-based and very simple to update, which makes it easy to use during collaboration. GitHub then renders it as HTML. |
-| GitHub flavored markdown (GFM) | There are many variations, or flavors, of the Markdown file format. The GitHub version, commonly referred to as GFM, is one of the most common variations of Markdown. For more information about GFM and how you can use the Markup format for your GFM documents, refer to “Getting started with writing and formatting on GitHub” at https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/. |
-| Fork | This is a copy of another repo that resides in your GitHub account, in comparison to a branch, which lives in the original repo. See “Branch” directly below. |
-| Branch | This is a copy of a repository that resides in the same repository as the original. You can merge a branch with the original. |
-| Fetch | This is the process of retrieving a copy of the latest changes from an online repo. However, a fetch does not merge changes. |
-| Pull | This is the process of fetching the latest changes from an online repo and merging them with local changes. |
-| Merge | This is the process of fetching changes from one branch and applying them to another. This includes retrieving changes from an online repo, and then applying them to that repo’s local version. |
-| Pull request | This is a set of proposed changes to a repo that a user submit, and a repo’s owners or collaborators then can accept or reject the pull request. |
-| Push | This is the process of sending or submitting your local changes to the online repo. |
-| Collaborator | This is a GitHub user that has permissions to add, delete, or change a repo’s content. |
+| Git 与 GitHub | Git 是一个开放源代码、更改跟踪程序，而 GitHub 是一个建立在 Git 上的站点/解决方案。有些其他网站和解决方案将 Git 用作后端。你可以将 GitHub 主要用于开放源代码（公用）开发项目，其可免费用于这些项目。但如果要将 GitHub 用于专用项目，而不是开放源代码，则必须注册付费版本。 |
+| 存储库 | GitHub 中的每个项目都位于存储库中。存储库包含所有项目文件，包括文档，并支持修订历史记录。存储库可以是公用或专用，你可以在计算机硬盘上创建存储库本地副本，或者在 GitHub 中使用存储库。 |
+| Markdown | 你可以使用此文本文件格式创建文档。此格式基于文本，更新非常简单，方便在协作时使用。GitHub 之后会将其呈现为 HTML。 |
+| GitHub Flavored Markdown (GFM) | Markdown 文件格式有很多变体或风格。GitHub 版本（通常称为 GFM）是最常见的 Markdown 变体。有关 GFM 以及可将 Markup 格式用于 GFM 文档的方式的更多信息，请参阅 https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/ 的“GitHub 写入与格式化入门”。 |
+| 创建分支 | 与原始存储库中的分支相比，驻留在 GitHub 帐户中的另一个存储库副本。请直接参阅下面的“分支”。 |
+| 分支 | 驻留在与原始存储库相同的存储库中的存储库副本。你可以将分支与原始存储库合并。 |
+| 提取 | 从联机存储库检索最新更改副本的流程。但提取不会合并更改。 |
+| 拉取 | 从联机存储库提取最新更改并将最新更改与本地更改合并的流程。 |
+| 合并 | 从分支提取更改并将更改应用到另一个分支的流程。包括从联机存储库检索更改，然后将更改应用到该存储库的本地版本。 |
+| 拉取请求 | 用户提交的一组建议存储库更改，存储库所有者或协作者之后可接受或拒绝拉取请求。 |
+| 推送 | 将本地更改发送或提交到联机存储库的流程。 |
+| 协作者 | 具有添加、删除或更改存储库内容权限的 GitHub 用户。 |
