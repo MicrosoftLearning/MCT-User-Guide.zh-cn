@@ -1,71 +1,71 @@
-# Suggesting changes and collaborating on a repo
+﻿# 存储库建议更改与协作
 
-GitHub makes it easy to collaborate with other Microsoft Learning users on the courses in which you are interested. 
+GitHub 可让你针对自己感兴趣的课程与其他 Microsoft Learning 用户协作。 
 
-You can modify your own copy of the lab materials, and then submit your changes to Microsoft Learning so that they can incorporate your updates. You might want to modify your lab materials if:
+你可以修改自己的实验室材料，然后将更改提交到 Microsoft Learning，以便其合并你的更新。在下列情况下，你可能想要修改实验室材料：
 
-- You find a mistake in a lab. 
+- 在实验室中发现错误。 
 
-- The UI has changed since the lab was created. 
+- 创建实验室之后，UI 发生更改。 
 
-- You think that the lab needs improvements or modifications.
+- 你认为实验室需要改进或修改。
 
-To modify lab materials, you should branch the repo, make updates in your branch, and then submit a pull request to the main (master) branch. This allows Microsoft Learning staff, and other MCTs and GitHub users to review, and comment on, your changes. 
+要修改实验室材料，应创建存储库分支，在分支中进行更新，然后将拉取请求提交至主（主要）分支。这样 Microsoft Learning 员工以及其他 MCT 和 GitHub 用户就能评价和评论你的更改。 
 
-You can review and comment on changes that other users make, and Microsoft Learning staff then approves and merges these changes into the master branch. This action notifies any user who is watching the repo that a change has occurred.
+你可以评价和评论其他用户所做的更改，然后 Microsoft Learning 员工会审核这些更改并将更改合并到主分支。此操作会通知监视存储库的用户存储库已发生更改。
 
-## Create a repo branch
+## 创建存储库分支
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	在 Internet Explorer 中，导航到 GitHub 上的存储库。
 
-1.	Click **Branch : branchname**, and then from the **Branches** list, select the branch you want to copy.
+1.	单击 **Branch : branchname**，然后从 **Branches** 列表，选择要复制的分支。
 
-    > **Note**:	If there is only one branch, the **Branch** drop-down list shows **Branch: master**, and the only branch that is available is **master**.
+    > **注释**：	如果只有一个分支， **Branch** 下拉列表将显示 **Branch: master**，以及 **master** 中的唯一可用分支。
 
-3.	In the blank text box, type the name of the branch that you want to create.
+3.	在空白文本框中，输入要创建的分支名称。
 
-4.	Click **Create branch: new branch name** when it appears.
+4.	显示时，单击 **Create branch: new branch name**。
 
-After you have created a Branch, you can clone the files to your local repo, update them on your computer, and then check in the changes from the GitHub Desktop. If you are working with Markdown or other text files, you can edit them in GitHub, and then check in the changes online.
+创建分支之后，可以将文件克隆到本地存储库，在你的计算机上进行更新，然后从 GitHub Desktop 签入更改。如果使用 Markdown 或其他文本文件，可在 GitHub 中对文件进行编辑，然后联机签入更改。
 
-## Delete a repo branch
+## 删除存储库分支
 
-1.	In Internet Explorer, navigate to the repo on GitHub.
+1.	在 Internet Explorer 中，导航到 GitHub 上的存储库。
 
-2.	Click ***n* branches**, where ***n*** is the number of existing branches.
+2.	单击 ***n* branches**，其中 ***n*** 表示现有分支数量。
 
-3.	On the **Branches** page, in the row for the branch that you want to delete, click **Delete this branch** icon.
+3.	在 **Branches** 页面，在要删除分支所在的行，单击 **Delete this branch** 图标。
 
-## Commit changes by using GitHub Desktop:
+## 使用 GitHub Desktop 提交更改：
 
-1.	Open **GitHub Desktop**.
+1.	打开 **GitHub Desktop**。
 
-2.	Select the repo that contains your changes, and then click **Changes**.
+2.	选择包含你的更改的存储库，然后单击 **Changes**。
 
-3.	Select the changes that you want to commit, and then in the **Summary** text box, write a short description of the change.
+3.	选择要提交的更改，然后在 **Summary** 文本框中，写入更改的简短描述。
 
-4.	In the **Description** text box, write a more-detailed description of the change, if necessary.
+4.	如有必要，在 **Description** 文本框中，写入更详细的更改描述。
 
-5.	Click **Commit to master**, and then click **Sync** to push the local changes to the online repo.
+5.	单击 **Commit to master**，然后单击 **Sync** 将本地更改推送到联机存储库。
 
-## Edit files and commit changes in the online repo:
+## 在联机存储库中编辑文件和提交更改：
 
-1.	In your browser, navigate to the applicable repository on **GitHub**, and then select the file that you want to edit.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库，然后选择要编辑的文件。
 
-2.	Click the **Edit this file** icon.
+2.	单击 **Edit this file** 图标。
 
-3.	Make your changes in the **Edit file** tab of the webpage, and then click **Preview changes** to view your proposed changes, without committing them.
+3.	在网页的 **Edit file** 选项卡中进行更改，然后单击 **Preview changes** 以在不提交的情况下查看你建议的更改。
 
-4.	Under **Commit changes**, in the **Update *filename*** text box, enter a short description of the changes.
+4.	在 **Commit changes** 下的 **Update *filename*** s文本框中，输入更改的简短描述。
 
-5.	In the **Add an optional extended description...** text box, enter a more detailed description of the change, if necessary, and then click **Commit changes**.
+5.	如有必要，在 **Add an optional extended description...** 文本框中，输入更详细的更改描述，然后单击 **Commit changes**。
 
-## Create a pull request:
+## 创建拉取请求：
 
-1.	In your browser, navigate to the applicable repository on **GitHub**.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库。
 
-2.	Click **Branch:branchname**, and then in the **Branches** list, select the branch for which you want to create a pull request.
+2.	单击 **Branch:branchname**，然后在 **Branches** 列表中，选择要为其创建拉取请求的分支。
 
-3.	Click **New pull request**, and then on the **Open a pull request** page, in the **Title** text box, update the name of the pull request, if necessary.
+3.	单击 **New pull request**，然后在 **Open a pull request** 页面的 **Title** 文本框中，更新拉取请求名称（如有必要）。
 
-4.	On the **Write** tab, in the **Leave a comment** text box, provide a description of the proposed change, and then click **Create pull request**.
+4.	在 **Write** 选项卡的 **Leave a comment** 文本框中，提供建议更改的描述，然后单击 **Create pull request**。
