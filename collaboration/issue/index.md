@@ -1,23 +1,23 @@
-# Issues
+﻿# 问题
 
-Whenever you create an issue, or a comment on a pull request or commit, you also can include other GitHub users or teams into the conversation by performing a **mention** of them in the comment’s body. If you are familiar with social media services, this feature will look very familiar.
+每当创建问题或者评论拉取请求或提交时，都可以通过在评论正文中**提及**其他 GitHub 用户或小组以将其包含到对话中。如果你熟悉社交媒体服务，这个功能看起来会很眼熟。
 
-## Submit an issue
+## 提交问题
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库。
 
-2.	Click **Issues**, and then click **New issue**.
+2.	单击 **Issues**，然后单击 **New issue**。
 
-3.	In the **Title** text box, enter the title for the issue, and then in the **Leave a comment** text box, type a description of the issue or suggestion.
+3.	在 **Title** 文本框中，输入问题标题，然后在 **Leave a comment** 文本框中，输入问题或建议的描述。
 
-4.	Click **Submit new issue**.
+4.	单击 **Submit new issue**。
 
-## Review and comment on an existing issue
+## 评价和评论现有问题
 
-1.	In your browser, navigate to the applicable repo on **GitHub**.
+1.	在浏览器中，导航到 **GitHub** 上的适用存储库。
 
-2.	Click **Issues**, and then select the title of the issue that you want to review.
+2.	单击 **Issues**，然后选择要评价的问题标题。
 
-3.	On the **Issue name** page, on the **Write** tab, in the **Leave a comment** text box, type your comment.
+3.	在 **Issue name** 页面上 **Write** 选项卡的 **Leave a comment** 文本框中，输入评论内容。
 
-4.	Click **Comment**.
+4.	单击 **Comment**。
