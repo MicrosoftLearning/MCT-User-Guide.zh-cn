@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # 面向 MCT 的 GitHub 用户指南
 
 Microsoft Azure 等云服务会经常频繁，这给 Microsoft 认证培训师 (MCT) 带来了挑战，因为他们教授的课程和实验步骤与我们的云服务不再匹配。 。 由于更改的频率以及更改发生时可能没有任何通知这一情况，课程开发团队可能很难快速识别和调整实验室更改。
